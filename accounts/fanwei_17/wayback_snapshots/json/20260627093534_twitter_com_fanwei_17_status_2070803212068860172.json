@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2060221752639389751",
+    "created_at": "2026-06-27T09:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070803212068860172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993384544108789765",
+          "start": 0,
+          "username": "ya_la44191"
+        },
+        {
+          "end": 20,
+          "id": "2047155443613704192",
+          "start": 12,
+          "username": "dem0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070803212068860172",
+    "in_reply_to_user_id": "1993384544108789765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070187488203993265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ya_la44191 @dem0427 找代购 or药商什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2060221752639389751",
+        "created_at": "2026-06-27T09:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070803212068860172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993384544108789765",
+              "start": 0,
+              "username": "ya_la44191"
+            },
+            {
+              "end": 20,
+              "id": "2047155443613704192",
+              "start": 12,
+              "username": "dem0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070803212068860172",
+        "in_reply_to_user_id": "1993384544108789765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070187488203993265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ya_la44191 @dem0427 找代购 or药商什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993384544108789765",
+        "conversation_id": "2060221752639389751",
+        "created_at": "2026-06-25T16:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070187488203993265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            },
+            {
+              "end": 19,
+              "id": "2047155443613704192",
+              "start": 11,
+              "username": "dem0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070187488203993265",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060231209016582473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 @dem0427 可以教我吗 该怎么弄啊 我真的求求了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 1553,
+          "like_count": 5655,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 2538
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T18:21:42.000Z",
+        "description": "独立思考明辨是非  每天学习不同的新知识  想要排忧解难私我   想要学习更多经验  传授各自经验 提升各自认知 眼界  学习不同新知识  真心学习的 联系我加社群  一起分享进步",
+        "id": "1993384544108789765",
+        "name": "亚历克斯佩雷拉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069667544362029056/EvJmPubS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 395,
+          "like_count": 2484,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "ya_la44191",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T03:28:03.000Z",
+        "description": "你看我时很近",
+        "id": "2047155443613704192",
+        "location": "嫉妒",
+        "name": "绯世",
+        "pinned_tweet_id": "2067117616406376631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056374625974820864/SNFCS9Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "dem0427",
+        "verified": true
+      }
+    ]
+  }
+}

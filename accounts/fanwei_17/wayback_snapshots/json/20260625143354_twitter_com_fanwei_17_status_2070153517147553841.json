@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2069583648614240335",
+    "created_at": "2026-06-25T14:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070153517147553841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692798286191628288",
+          "start": 0,
+          "username": "wasuretekiete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070153517147553841",
+    "in_reply_to_user_id": "1692798286191628288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070105671463485657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasuretekiete 17（戒烟版）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2069583648614240335",
+        "created_at": "2026-06-25T14:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070153517147553841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692798286191628288",
+              "start": 0,
+              "username": "wasuretekiete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070153517147553841",
+        "in_reply_to_user_id": "1692798286191628288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070105671463485657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasuretekiete 17（戒烟版）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692798286191628288",
+        "conversation_id": "2069583648614240335",
+        "created_at": "2026-06-25T11:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070105671463485657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070105671463485657",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069583648614240335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 chainsmoker 17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2445,
+          "following_count": 1553,
+          "like_count": 5636,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 2531
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T07:19:11.000Z",
+        "description": "bpd & anorexia b/p\ncw46.65kg bmi15.6 vegan(1year)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wasuretekiete.blogspot.com/p/blog-page.ht…",
+                "end": 23,
+                "expanded_url": "https://wasuretekiete.blogspot.com/p/blog-page.html",
+                "start": 0,
+                "url": "https://t.co/8vgsuRHUf6"
+              }
+            ]
+          }
+        },
+        "id": "1692798286191628288",
+        "location": "dont follow me(unless i fw u)",
+        "name": "忘れていく",
+        "pinned_tweet_id": "2053056448830271775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066617224895553536/B8W60Pjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 27,
+          "like_count": 2421,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/8vgsuRHUf6",
+        "username": "wasuretekiete",
+        "verified": false
+      }
+    ]
+  }
+}

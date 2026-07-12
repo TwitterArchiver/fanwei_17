@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2072734866899354053",
+    "created_at": "2026-07-03T01:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072851029222436981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795563405845078018",
+          "start": 0,
+          "username": "Kusunoki_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072851029222436981",
+    "in_reply_to_user_id": "1795563405845078018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072846630995509481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusunoki_kawaii 太好吃了太好吃了！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2072734866899354053",
+        "created_at": "2026-07-03T01:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072851029222436981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795563405845078018",
+              "start": 0,
+              "username": "Kusunoki_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072851029222436981",
+        "in_reply_to_user_id": "1795563405845078018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072846630995509481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusunoki_kawaii 太好吃了太好吃了！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795563405845078018",
+        "conversation_id": "2072734866899354053",
+        "created_at": "2026-07-03T00:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072846630995509481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072846630995509481",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072734921333039608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 柠檬是对的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 1557,
+          "like_count": 5839,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-28T21:11:04.000Z",
+        "description": "可以纯绿陪玩/血图定制/疤痕举牌｜其他请过门咨询(｡ì _ í｡)｜只收口令红包｜卖纸烟和电子烟｜我是一个小土豆@PoTATo_zZ_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "PoTATo_zZ_"
+              }
+            ]
+          }
+        },
+        "id": "1795563405845078018",
+        "location": "梦境｜🚪52/99",
+        "name": "嗔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066169460038475777/qg8nQfXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 208,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "Kusunoki_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

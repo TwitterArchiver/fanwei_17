@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068736321372495872",
+        "3_2068736321368260608"
+      ],
+      "media_source_tweet_id": [
+        "2068736330738389069",
+        "2068736330738389069"
+      ]
+    },
+    "author_id": "1638959586140098560",
+    "conversation_id": "2068746296081662443",
+    "created_at": "2026-06-21T17:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068746296081662443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033127264058224640",
+          "start": 3,
+          "username": "Gem7749"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nvosYgAoue",
+          "end": 43,
+          "expanded_url": "https://x.com/Gem7749/status/2068736330738389069/photo/1",
+          "media_key": "3_2068736321372495872",
+          "start": 20,
+          "url": "https://t.co/nvosYgAoue"
+        },
+        {
+          "display_url": "pic.x.com/nvosYgAoue",
+          "end": 43,
+          "expanded_url": "https://x.com/Gem7749/status/2068736330738389069/photo/1",
+          "media_key": "3_2068736321368260608",
+          "start": 20,
+          "url": "https://t.co/nvosYgAoue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068746296081662443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068736330738389069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gem7749: 太阳爆裂无声 https://t.co/nvosYgAoue"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068736321372495872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWguUFbIAA09y-.jpg",
+        "width": 1928
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068736321368260608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWguUEagAAIs7Z.jpg",
+        "width": 1897
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068736321372495872",
+            "3_2068736321368260608"
+          ],
+          "media_source_tweet_id": [
+            "2068736330738389069",
+            "2068736330738389069"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2068746296081662443",
+        "created_at": "2026-06-21T17:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068746296081662443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033127264058224640",
+              "start": 3,
+              "username": "Gem7749"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvosYgAoue",
+              "end": 43,
+              "expanded_url": "https://x.com/Gem7749/status/2068736330738389069/photo/1",
+              "media_key": "3_2068736321372495872",
+              "start": 20,
+              "url": "https://t.co/nvosYgAoue"
+            },
+            {
+              "display_url": "pic.x.com/nvosYgAoue",
+              "end": 43,
+              "expanded_url": "https://x.com/Gem7749/status/2068736330738389069/photo/1",
+              "media_key": "3_2068736321368260608",
+              "start": 20,
+              "url": "https://t.co/nvosYgAoue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068746296081662443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068736330738389069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gem7749: 太阳爆裂无声 https://t.co/nvosYgAoue"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068736321372495872",
+            "3_2068736321368260608"
+          ]
+        },
+        "author_id": "2033127264058224640",
+        "conversation_id": "2068736330738389069",
+        "created_at": "2026-06-21T16:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068736330738389069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvosYgAoue",
+              "end": 30,
+              "expanded_url": "https://x.com/Gem7749/status/2068736330738389069/photo/1",
+              "media_key": "3_2068736321372495872",
+              "start": 7,
+              "url": "https://t.co/nvosYgAoue"
+            },
+            {
+              "display_url": "pic.x.com/nvosYgAoue",
+              "end": 30,
+              "expanded_url": "https://x.com/Gem7749/status/2068736330738389069/photo/1",
+              "media_key": "3_2068736321368260608",
+              "start": 7,
+              "url": "https://t.co/nvosYgAoue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068736330738389069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太阳爆裂无声 https://t.co/nvosYgAoue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 1553,
+          "like_count": 5553,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2501
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T10:30:45.000Z",
+        "description": "One topples the boulder One rebuilds the ruins\n如果这个世界上还有另一个彼此\n--此账号为糯米与十七记录账号--",
+        "id": "2033127264058224640",
+        "name": "双子星N-7749",
+        "pinned_tweet_id": "2033131922210398326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066377868196929536/m-6J8Utf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "Gem7749",
+        "verified": false
+      }
+    ]
+  }
+}

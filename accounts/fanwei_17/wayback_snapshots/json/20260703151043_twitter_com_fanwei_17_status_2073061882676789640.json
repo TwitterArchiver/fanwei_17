@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2073051461416784107",
+    "created_at": "2026-07-03T15:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073061882676789640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073061882676789640",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073051461416784107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18831,
+        "height": 3840,
+        "media_key": "13_2073051076983660544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073051076983660544/img/EZanXCQN9efHLmpC.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073051076983660544/vid/avc1/480x852/QnuXQdTMIlsd8EOz.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073051076983660544/vid/avc1/320x568/IGpBbbjBGhjFFjtJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073051076983660544/vid/avc1/1080x1920/5kyv5Aqb9FqXs0e-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073051076983660544/pl/rHnVnmTwOWrq2ipA.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073051076983660544/vid/avc1/2160x3840/m3IqiDyg17wfYezl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073051076983660544/vid/avc1/720x1280/5qMc4PxF06ocFf5B.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2073051461416784107",
+        "created_at": "2026-07-03T15:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073061882676789640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073061882676789640",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073051461416784107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073051076983660544"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2073051461416784107",
+        "created_at": "2026-07-03T14:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073051461416784107"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "踊ってみた"
+            },
+            {
+              "end": 74,
+              "start": 62,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 87,
+              "start": 75,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 95,
+              "start": 88,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 114,
+              "start": 97,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZ5aqxEIO5",
+              "end": 139,
+              "expanded_url": "https://x.com/DrankghostU/status/2073051461416784107/video/1",
+              "media_key": "13_2073051076983660544",
+              "start": 116,
+              "url": "https://t.co/hZ5aqxEIO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073051461416784107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没人看我精心剪辑的手势舞！！！\n\n路过评论的人你们今夜trip爽感++哦\n\n#雰囲気 ⁠#自撮り界隈 #踊ってみた\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠ https://t.co/hZ5aqxEIO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 1562,
+          "like_count": 5856,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 202,
+          "like_count": 178,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 885
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

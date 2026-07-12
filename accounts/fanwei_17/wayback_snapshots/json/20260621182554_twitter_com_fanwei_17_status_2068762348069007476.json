@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068762231316312064"
+      ],
+      "media_source_tweet_id": [
+        "2068762234319433740"
+      ]
+    },
+    "author_id": "1638959586140098560",
+    "conversation_id": "2068762348069007476",
+    "created_at": "2026-06-21T18:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068762348069007476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2054912328978817024",
+          "start": 3,
+          "username": "fanwei__17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WpAkvJhsyU",
+          "end": 90,
+          "expanded_url": "https://x.com/fanwei__17/status/2068762234319433740/photo/1",
+          "media_key": "3_2068762231316312064",
+          "start": 67,
+          "url": "https://t.co/WpAkvJhsyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068762348069007476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068762234319433740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fanwei__17: 2026.6.22 凌晨2:22\n我见到了你   反射着冷光的玻璃渣\n你很美  永远住在我的内幻里吧 https://t.co/WpAkvJhsyU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2068762231316312064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLW4SeJacAApl9t.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068762231316312064"
+          ],
+          "media_source_tweet_id": [
+            "2068762234319433740"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2068762348069007476",
+        "created_at": "2026-06-21T18:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068762348069007476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2054912328978817024",
+              "start": 3,
+              "username": "fanwei__17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpAkvJhsyU",
+              "end": 90,
+              "expanded_url": "https://x.com/fanwei__17/status/2068762234319433740/photo/1",
+              "media_key": "3_2068762231316312064",
+              "start": 67,
+              "url": "https://t.co/WpAkvJhsyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068762348069007476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068762234319433740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fanwei__17: 2026.6.22 凌晨2:22\n我见到了你   反射着冷光的玻璃渣\n你很美  永远住在我的内幻里吧 https://t.co/WpAkvJhsyU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068762231316312064"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2068762234319433740",
+        "created_at": "2026-06-21T18:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068762234319433740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpAkvJhsyU",
+              "end": 74,
+              "expanded_url": "https://x.com/fanwei__17/status/2068762234319433740/photo/1",
+              "media_key": "3_2068762231316312064",
+              "start": 51,
+              "url": "https://t.co/WpAkvJhsyU"
+            },
+            {
+              "display_url": "x.com/0nemoresec/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/0nemoresec/status/2061825677217923445",
+              "start": 75,
+              "url": "https://t.co/L3ZwqnGStW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068762234319433740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061825677217923445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026.6.22 凌晨2:22\n我见到了你   反射着冷光的玻璃渣\n你很美  永远住在我的内幻里吧 https://t.co/WpAkvJhsyU https://t.co/L3ZwqnGStW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 1553,
+          "like_count": 5552,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2500
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "随性",
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Seventeen",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 82,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "fanwei__17",
+        "verified": false
+      }
+    ]
+  }
+}

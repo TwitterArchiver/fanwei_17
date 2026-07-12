@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2070803522409701390",
+    "created_at": "2026-06-27T13:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070867495670645178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829371164822769664",
+          "start": 0,
+          "username": "yiz1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070867495670645178",
+    "in_reply_to_user_id": "1829371164822769664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070825987248705846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiz1226 很快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2070803522409701390",
+        "created_at": "2026-06-27T13:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070867495670645178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829371164822769664",
+              "start": 0,
+              "username": "yiz1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070867495670645178",
+        "in_reply_to_user_id": "1829371164822769664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070825987248705846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiz1226 很快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829371164822769664",
+        "conversation_id": "2070803522409701390",
+        "created_at": "2026-06-27T11:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070825987248705846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070825987248705846",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070803522409701390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 期待糯7再次合体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 1553,
+          "like_count": 5672,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 2542
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T04:11:05.000Z",
+        "description": "请随意和我互动 互fo来私信我！剧烈喜欢你们摸摸贴贴亲亲啃啃\n请吃掉我吧^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rafayel0306",
+                "end": 23,
+                "expanded_url": "http://ngl.link/rafayel0306",
+                "start": 0,
+                "url": "https://t.co/HNDBdwsWJr"
+              }
+            ]
+          }
+        },
+        "id": "1829371164822769664",
+        "location": "天国",
+        "name": "小焱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059679424887595008/YPjdFu45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 345,
+          "like_count": 2461,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/HNDBdwsWJr",
+        "username": "yiz1226",
+        "verified": false
+      }
+    ]
+  }
+}

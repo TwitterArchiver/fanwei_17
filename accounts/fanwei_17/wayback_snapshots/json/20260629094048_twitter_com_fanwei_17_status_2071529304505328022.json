@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071529295789584384",
+        "3_2071529300554387457"
+      ]
+    },
+    "author_id": "1638959586140098560",
+    "conversation_id": "2071529304505328022",
+    "created_at": "2026-06-29T09:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071529304505328022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T95AyzheOX",
+          "end": 37,
+          "expanded_url": "https://x.com/fanwei_17/status/2071529304505328022/photo/1",
+          "media_key": "3_2071529295789584384",
+          "start": 14,
+          "url": "https://t.co/T95AyzheOX"
+        },
+        {
+          "display_url": "pic.x.com/T95AyzheOX",
+          "end": 37,
+          "expanded_url": "https://x.com/fanwei_17/status/2071529304505328022/photo/1",
+          "media_key": "3_2071529300554387457",
+          "start": 14,
+          "url": "https://t.co/T95AyzheOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071529304505328022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢bnt。。没白帮你带货 https://t.co/T95AyzheOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_2071529295789584384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-M60lacAATyLh.jpg",
+        "width": 1236
+      },
+      {
+        "height": 849,
+        "media_key": "3_2071529300554387457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-M7GVbkAEwhw4.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071529295789584384",
+            "3_2071529300554387457"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2071529304505328022",
+        "created_at": "2026-06-29T09:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071529304505328022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T95AyzheOX",
+              "end": 37,
+              "expanded_url": "https://x.com/fanwei_17/status/2071529304505328022/photo/1",
+              "media_key": "3_2071529295789584384",
+              "start": 14,
+              "url": "https://t.co/T95AyzheOX"
+            },
+            {
+              "display_url": "pic.x.com/T95AyzheOX",
+              "end": 37,
+              "expanded_url": "https://x.com/fanwei_17/status/2071529304505328022/photo/1",
+              "media_key": "3_2071529300554387457",
+              "start": 14,
+              "url": "https://t.co/T95AyzheOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071529304505328022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢bnt。。没白帮你带货 https://t.co/T95AyzheOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 1554,
+          "like_count": 5695,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 2558
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": true
+      }
+    ]
+  }
+}

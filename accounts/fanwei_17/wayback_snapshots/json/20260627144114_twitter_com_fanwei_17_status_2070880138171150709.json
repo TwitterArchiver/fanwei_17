@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070880130914983937",
+        "3_2070880133070942208"
+      ]
+    },
+    "author_id": "1638959586140098560",
+    "conversation_id": "2070880138171150709",
+    "created_at": "2026-06-27T14:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070880138171150709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VbQq6xcTpU",
+          "end": 59,
+          "expanded_url": "https://x.com/fanwei_17/status/2070880138171150709/photo/1",
+          "media_key": "3_2070880130914983937",
+          "start": 36,
+          "url": "https://t.co/VbQq6xcTpU"
+        },
+        {
+          "display_url": "pic.x.com/VbQq6xcTpU",
+          "end": 59,
+          "expanded_url": "https://x.com/fanwei_17/status/2070880138171150709/photo/1",
+          "media_key": "3_2070880133070942208",
+          "start": 36,
+          "url": "https://t.co/VbQq6xcTpU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070880138171150709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "曝光一下某个神秘食物的戒断反应\n(我们很快会再次见面哦 大家不必担心) https://t.co/VbQq6xcTpU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1964,
+        "media_key": "3_2070880130914983937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0-gc-aIAEjbGw.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1912,
+        "media_key": "3_2070880133070942208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0-glAbcAAjIdV.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070880130914983937",
+            "3_2070880133070942208"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2070880138171150709",
+        "created_at": "2026-06-27T14:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070880138171150709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbQq6xcTpU",
+              "end": 59,
+              "expanded_url": "https://x.com/fanwei_17/status/2070880138171150709/photo/1",
+              "media_key": "3_2070880130914983937",
+              "start": 36,
+              "url": "https://t.co/VbQq6xcTpU"
+            },
+            {
+              "display_url": "pic.x.com/VbQq6xcTpU",
+              "end": 59,
+              "expanded_url": "https://x.com/fanwei_17/status/2070880138171150709/photo/1",
+              "media_key": "3_2070880133070942208",
+              "start": 36,
+              "url": "https://t.co/VbQq6xcTpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070880138171150709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曝光一下某个神秘食物的戒断反应\n(我们很快会再次见面哦 大家不必担心) https://t.co/VbQq6xcTpU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 1553,
+          "like_count": 5672,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2545
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      }
+    ]
+  }
+}

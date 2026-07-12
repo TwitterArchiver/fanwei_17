@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2045419888383299861",
+    "created_at": "2026-06-25T17:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070196503940120581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "314754667",
+          "start": 0,
+          "username": "Randy584"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070196503940120581",
+    "in_reply_to_user_id": "314754667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069852485150536186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Randy584 唔 抗焦虑并不是菲尼布特的强项 我现在也更习惯口服这个药啦虽然我几乎不用它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2045419888383299861",
+        "created_at": "2026-06-25T17:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070196503940120581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "314754667",
+              "start": 0,
+              "username": "Randy584"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070196503940120581",
+        "in_reply_to_user_id": "314754667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069852485150536186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Randy584 唔 抗焦虑并不是菲尼布特的强项 我现在也更习惯口服这个药啦虽然我几乎不用它"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "314754667",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2045419888383299861",
+        "created_at": "2026-06-24T18:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069852485150536186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069852485150536186",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045419888383299861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 我刚鼻吸了60mg，在吃了3mg劳拉西泮250mg丙戊酸镁和12mg右佐匹克隆之后还是焦虑，不管了。这玩意我口服1.5g才有点感觉，请问十七老师鼻吸多少量起效？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 1554,
+          "like_count": 5641,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 2533
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-10T19:13:26.000Z",
+        "description": "intp 广泛性焦虑障碍",
+        "id": "314754667",
+        "name": "Randy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053893798242209792/zyESWpNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 32,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Randy584",
+        "verified": false
+      }
+    ]
+  }
+}

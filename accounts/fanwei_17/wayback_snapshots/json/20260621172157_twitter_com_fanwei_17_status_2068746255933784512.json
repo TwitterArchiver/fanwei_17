@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068735971005480960"
+      ],
+      "media_source_tweet_id": [
+        "2068735980434280454"
+      ]
+    },
+    "author_id": "1638959586140098560",
+    "conversation_id": "2068746255933784512",
+    "created_at": "2026-06-21T17:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068746255933784512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033127264058224640",
+          "start": 3,
+          "username": "Gem7749"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SbaNp8cB6l",
+          "end": 60,
+          "expanded_url": "https://x.com/Gem7749/status/2068735980434280454/photo/1",
+          "media_key": "3_2068735971005480960",
+          "start": 37,
+          "url": "https://t.co/SbaNp8cB6l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068746255933784512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068735980434280454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gem7749: 17yummyyummmmy\n很美且很美味🤤🤤 https://t.co/SbaNp8cB6l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068735971005480960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWgZ63awAAvJxa.jpg",
+        "width": 1509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068735971005480960"
+          ],
+          "media_source_tweet_id": [
+            "2068735980434280454"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2068746255933784512",
+        "created_at": "2026-06-21T17:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068746255933784512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033127264058224640",
+              "start": 3,
+              "username": "Gem7749"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbaNp8cB6l",
+              "end": 60,
+              "expanded_url": "https://x.com/Gem7749/status/2068735980434280454/photo/1",
+              "media_key": "3_2068735971005480960",
+              "start": 37,
+              "url": "https://t.co/SbaNp8cB6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068746255933784512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068735980434280454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gem7749: 17yummyyummmmy\n很美且很美味🤤🤤 https://t.co/SbaNp8cB6l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068735971005480960"
+          ]
+        },
+        "author_id": "2033127264058224640",
+        "conversation_id": "2068735980434280454",
+        "created_at": "2026-06-21T16:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068735980434280454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbaNp8cB6l",
+              "end": 47,
+              "expanded_url": "https://x.com/Gem7749/status/2068735980434280454/photo/1",
+              "media_key": "3_2068735971005480960",
+              "start": 24,
+              "url": "https://t.co/SbaNp8cB6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068735980434280454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "17yummyyummmmy\n很美且很美味🤤🤤 https://t.co/SbaNp8cB6l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 1553,
+          "like_count": 5551,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2500
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T10:30:45.000Z",
+        "description": "One topples the boulder One rebuilds the ruins\n如果这个世界上还有另一个彼此\n--此账号为糯米与十七记录账号--",
+        "id": "2033127264058224640",
+        "name": "双子星N-7749",
+        "pinned_tweet_id": "2033131922210398326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066377868196929536/m-6J8Utf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "Gem7749",
+        "verified": false
+      }
+    ]
+  }
+}

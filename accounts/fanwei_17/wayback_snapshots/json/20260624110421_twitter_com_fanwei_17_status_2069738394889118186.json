@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2069584683592261887",
+    "created_at": "2026-06-24T11:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069738394889118186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540268150406537216",
+          "start": 0,
+          "username": "aabanypp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069738394889118186",
+    "in_reply_to_user_id": "1540268150406537216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069670655222579212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aabanypp 好比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2069584683592261887",
+        "created_at": "2026-06-24T11:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069738394889118186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540268150406537216",
+              "start": 0,
+              "username": "aabanypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069738394889118186",
+        "in_reply_to_user_id": "1540268150406537216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069670655222579212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aabanypp 好比"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540268150406537216",
+        "conversation_id": "2069584683592261887",
+        "created_at": "2026-06-24T06:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069670655222579212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069670655222579212",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069584683592261887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 同感。！就像每个人都会拉屎但是闻不了屎味（）好粗俗的比喻hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 1555,
+          "like_count": 5623,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 2528
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T09:38:50.000Z",
+        "description": "一个神秘的人。\n想要互fo我会全部回fo！（只看黄的顺男除外）",
+        "id": "1540268150406537216",
+        "name": "睡个好觉吧！",
+        "pinned_tweet_id": "2065487571975856286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069053261726826496/ZLu96B-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 117,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "aabanypp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072460976075812864"
+      ]
+    },
+    "author_id": "1638959586140098560",
+    "conversation_id": "2072460978248393135",
+    "created_at": "2026-07-01T23:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T00:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072460978248393135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/15c3UVlJgK",
+          "end": 32,
+          "expanded_url": "https://x.com/fanwei_17/status/2072460978248393135/photo/1",
+          "media_key": "3_2072460976075812864",
+          "start": 9,
+          "url": "https://t.co/15c3UVlJgK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072460978248393135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bnt上大号说话 https://t.co/15c3UVlJgK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2008,
+        "media_key": "3_2072460976075812864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLcRwHbsAAoZ2E.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072460976075812864"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2072460978248393135",
+        "created_at": "2026-07-01T23:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072460978248393135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/15c3UVlJgK",
+              "end": 32,
+              "expanded_url": "https://x.com/fanwei_17/status/2072460978248393135/photo/1",
+              "media_key": "3_2072460976075812864",
+              "start": 9,
+              "url": "https://t.co/15c3UVlJgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072460978248393135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bnt上大号说话 https://t.co/15c3UVlJgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 1552,
+          "like_count": 5733,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 2587
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      }
+    ]
+  }
+}
