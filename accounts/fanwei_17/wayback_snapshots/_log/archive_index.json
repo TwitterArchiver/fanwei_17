@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-18T04:56:14",
+  "last_updated": "2026-07-19T05:01:56",
   "html": {
     "https://web.archive.org/web/20260621172207if_/https://twitter.com/fanwei_17/status/2068746296081662443": {
       "status": "done",
@@ -756,40 +756,40 @@
       "last_updated": "2026-07-12T15:42:23"
     },
     "https://pbs.twimg.com/media/HLbJjzVaQAE_0qc.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260624013648_twitter_com_fanwei_17_status_2069595565407822064.json"
       ],
-      "last_updated": "2026-07-18T04:55:19",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260624013648/https://pbs.twimg.com/media/HLbJjzVaQAE_0qc.jpg",
-      "miss_count": 4
+      "last_updated": "2026-07-19T05:01:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624013648im_/https://pbs.twimg.com/media/HLbJjzVaQAE_0qc.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa2c5321580>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLbJjzZasAAQlUZ.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260624013648_twitter_com_fanwei_17_status_2069595565407822064.json"
       ],
-      "last_updated": "2026-07-18T04:55:23",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260624013648/https://pbs.twimg.com/media/HLbJjzZasAAQlUZ.jpg",
-      "miss_count": 4
+      "last_updated": "2026-07-19T05:01:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624013648im_/https://pbs.twimg.com/media/HLbJjzZasAAQlUZ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa2c5323410>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLbJjzXaoAE8wID.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260624013648_twitter_com_fanwei_17_status_2069595565407822064.json"
       ],
-      "last_updated": "2026-07-18T04:55:26",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260624013648/https://pbs.twimg.com/media/HLbJjzXaoAE8wID.jpg",
-      "miss_count": 4
+      "last_updated": "2026-07-19T05:01:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624013648im_/https://pbs.twimg.com/media/HLbJjzXaoAE8wID.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa2c6a1f3b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLbJj1LaMAAqb7q.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260624013648_twitter_com_fanwei_17_status_2069595565407822064.json"
       ],
-      "last_updated": "2026-07-18T04:55:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624013648im_/https://pbs.twimg.com/media/HLbJj1LaMAAqb7q.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4053ced2e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-19T05:01:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624013648im_/https://pbs.twimg.com/media/HLbJj1LaMAAqb7q.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa2c5322c00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HL0-gc-aIAEjbGw.jpg": {
       "status": "done",
@@ -2147,8 +2147,8 @@
           "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-18T04:55:53",
-      "miss_count": 4
+      "last_updated": "2026-07-19T05:01:36",
+      "miss_count": 5
     },
     "20260624104354_twitter_com_fanwei_17_status_2069733245424636278.json": {
       "status": "done",
