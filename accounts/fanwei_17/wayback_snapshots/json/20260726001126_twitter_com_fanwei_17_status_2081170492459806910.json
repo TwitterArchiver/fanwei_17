@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2080802613596221871",
+    "created_at": "2026-07-26T00:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081170492459806910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1776162571709796352",
+          "start": 0,
+          "username": "fox210817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081170492459806910",
+    "in_reply_to_user_id": "1776162571709796352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080900361108521124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fox210817 会夸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2080802613596221871",
+        "created_at": "2026-07-26T00:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081170492459806910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1776162571709796352",
+              "start": 0,
+              "username": "fox210817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081170492459806910",
+        "in_reply_to_user_id": "1776162571709796352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080900361108521124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fox210817 会夸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776162571709796352",
+        "conversation_id": "2080802613596221871",
+        "created_at": "2026-07-25T06:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080900361108521124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080900361108521124",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080802613596221871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 好优雅欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2666,
+          "following_count": 1546,
+          "like_count": 5920,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "非药不上推",
+        "id": "1776162571709796352",
+        "location": "世界",
+        "name": "猫不理茶茶罐头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885748304442748928/rwYCd9t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 252,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "fox210817",
+        "verified": false
+      }
+    ]
+  }
+}

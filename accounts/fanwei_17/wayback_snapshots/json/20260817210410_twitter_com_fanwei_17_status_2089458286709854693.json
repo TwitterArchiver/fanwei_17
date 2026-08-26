@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2088808431071482046",
+    "created_at": "2026-08-17T21:04:10.000Z",
+    "display_text_range": [
+      8,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T22:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089458286709854693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "O0ocT2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089458286709854693",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088972741018107959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O0ocT2 对对对对对对这尤其是第一次的含金量 很难不让人彻底爱上 (爱上算成瘾吗)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2088808431071482046",
+        "created_at": "2026-08-17T21:04:10.000Z",
+        "display_text_range": [
+          8,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089458286709854693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "O0ocT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089458286709854693",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088972741018107959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O0ocT2 对对对对对对这尤其是第一次的含金量 很难不让人彻底爱上 (爱上算成瘾吗)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "2088808431071482046",
+        "created_at": "2026-08-16T12:54:47.000Z",
+        "display_text_range": [
+          11,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088972741018107959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088972741018107959",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088808431071482046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 DXM真的无可替代、、我的第一次和最神秘最美丽的灵性体验也是发生在DXM中 从古埃及 怪文书到宇宙边际🥲🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "is_identity_verified": false,
+        "location": "Thrillingly pointless",
+        "most_recent_tweet_id": "2089458286709854693",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638959586140098560/1777837107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 1501,
+          "like_count": 5996,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2764
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "这是混沌中立垃圾站、Xenogender、骂我我有在听",
+        "id": "1717903248764317696",
+        "is_identity_verified": false,
+        "location": "@",
+        "most_recent_tweet_id": "2089373962962948249",
+        "name": "右美喵喵",
+        "pinned_tweet_id": "2054046417346552216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717903248764317696/1779362759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075522597392113664/fd7pkQvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 318,
+          "like_count": 2748,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 1510
+        },
+        "url": "",
+        "username": "O0ocT2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

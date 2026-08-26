@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2090817704106348544"
+      ],
+      "media_source_tweet_id": [
+        "2090818120185479170"
+      ]
+    },
+    "author_id": "1638959586140098560",
+    "conversation_id": "2090947109243768900",
+    "created_at": "2026-08-21T23:40:13.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T00:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090947109243768900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1453380556004081668",
+          "start": 3,
+          "username": "hectoroz_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ju2TNCK6Ie",
+          "end": 49,
+          "expanded_url": "https://x.com/hectoroz_/status/2090818120185479170/photo/1",
+          "media_key": "16_2090817704106348544",
+          "start": 26,
+          "url": "https://t.co/ju2TNCK6Ie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090947109243768900",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2090817704106348544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090818120185479170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hectoroz_: off to war https://t.co/ju2TNCK6Ie"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "16_2090817704106348544",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQQTn89bUAA4Pup.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQQTn89bUAA4Pup.mp4"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090817704106348544"
+          ],
+          "media_source_tweet_id": [
+            "2090818120185479170"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2090947109243768900",
+        "created_at": "2026-08-21T23:40:13.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090947109243768900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1453380556004081668",
+              "start": 3,
+              "username": "hectoroz_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ju2TNCK6Ie",
+              "end": 49,
+              "expanded_url": "https://x.com/hectoroz_/status/2090818120185479170/photo/1",
+              "media_key": "16_2090817704106348544",
+              "start": 26,
+              "url": "https://t.co/ju2TNCK6Ie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090947109243768900",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2090817704106348544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090818120185479170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hectoroz_: off to war https://t.co/ju2TNCK6Ie"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090817704106348544"
+          ]
+        },
+        "author_id": "1453380556004081668",
+        "conversation_id": "2090818120185479170",
+        "created_at": "2026-08-21T15:07:40.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090818120185479170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ju2TNCK6Ie",
+              "end": 34,
+              "expanded_url": "https://x.com/hectoroz_/status/2090818120185479170/photo/1",
+              "media_key": "16_2090817704106348544",
+              "start": 11,
+              "url": "https://t.co/ju2TNCK6Ie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090818120185479170",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2090817704106348544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 151296,
+          "like_count": 1567,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "off to war https://t.co/ju2TNCK6Ie"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "is_identity_verified": false,
+        "location": "Thrillingly pointless",
+        "most_recent_tweet_id": "2090947109243768900",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638959586140098560/1777837107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 1509,
+          "like_count": 6079,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 2843
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-27T15:18:37.000Z",
+        "description": "Glitch Supremacy\nhttps://t.co/SJ82LiWXPP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "superrare.com/hectoroz",
+                "end": 40,
+                "expanded_url": "https://superrare.com/hectoroz",
+                "start": 17,
+                "url": "https://t.co/SJ82LiWXPP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/hectoroz",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/hectoroz",
+                "start": 0,
+                "url": "https://t.co/NRDXiE9jby"
+              }
+            ]
+          }
+        },
+        "id": "1453380556004081668",
+        "is_identity_verified": true,
+        "location": "the moon",
+        "most_recent_tweet_id": "2090818120185479170",
+        "name": "Hectoroz 🏴‍☠️",
+        "pinned_tweet_id": "2068702668739285038",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453380556004081668/1659955938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504455371465060355/Uagkiw6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37044,
+          "following_count": 2699,
+          "like_count": 63844,
+          "listed_count": 173,
+          "media_count": 3647,
+          "tweet_count": 48173
+        },
+        "url": "https://t.co/NRDXiE9jby",
+        "username": "hectoroz_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

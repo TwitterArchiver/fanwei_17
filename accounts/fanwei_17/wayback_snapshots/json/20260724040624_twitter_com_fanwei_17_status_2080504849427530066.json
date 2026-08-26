@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2080336366400127243",
+    "created_at": "2026-07-24T04:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080504849427530066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080504849427530066",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080336366400127243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo 永远永远 直到永远"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2080336358787424256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7W5W7aoAAUcwB.jpg",
+        "width": 575
+      },
+      {
+        "height": 1066,
+        "media_key": "3_2080336358812573697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7W5XBaYAEyjIY.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2080336366400127243",
+        "created_at": "2026-07-24T04:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080504849427530066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080504849427530066",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080336366400127243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 永远永远 直到永远"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080336358787424256",
+            "3_2080336358812573697"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2080336366400127243",
+        "created_at": "2026-07-23T16:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080336366400127243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXitWt5N5p",
+              "end": 111,
+              "expanded_url": "https://x.com/Numiouoo/status/2080336366400127243/photo/1",
+              "media_key": "3_2080336358787424256",
+              "start": 88,
+              "url": "https://t.co/xXitWt5N5p"
+            },
+            {
+              "display_url": "pic.x.com/xXitWt5N5p",
+              "end": 111,
+              "expanded_url": "https://x.com/Numiouoo/status/2080336366400127243/photo/1",
+              "media_key": "3_2080336358812573697",
+              "start": 88,
+              "url": "https://t.co/xXitWt5N5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080336366400127243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 1622,
+                "id": "1638959586140098560",
+                "start": 1612,
+                "username": "fanwei_17"
+              }
+            ]
+          },
+          "text": "（来自十七提问箱 此篇为糯米视角）\n十七&糯米的故事好像很难写出来，推特呈现的是冰山一角，因为太过特殊太过例外，彼此常常也恍惚表示“如在梦中”。\n\n我们是怎么认识的？\n糯米后来才知道，十七很久以前就先关注糯米了。我不喜欢私信，十七在私信过后很惭愧打扰到糯米（也确确实实一开始被糯米挂在QQ空间骂了(⩌ᴗ⩌ ），所以苟着只是频繁互动。十七糯米成为了好互关，糯米喜欢叫“小十七”，十七喜欢叫“糯米老师”。\n\n直到某一天，十七磕大了，心情和思维都乱七八糟，发了一条推文请求大家偏爱，又在下面艾特了糯米说这是“我的偏爱”。糯米大半夜打开推特消息，心里死水般的湖泊泛起了波澜——后来我们都说阿普唑仑吃得好！阿普唑仑一线牵！\n\n我其实是个非常没心没肺的家伙，跟大家开开心心互动但是互动完转头就忘，十七的那一句话让糯米忽然给十七留出了一个单独的记忆建档。\n\n再后来，我一直嚎叫着想要拼好毒，十七互动中表示了意愿，我才知道十七知道我ip！十七再一次私信糯米，表示原本就喜欢这个ip，想要找糯米拼好毒，看到糯米有切割爱好也想跟糯米一起玩，糯米加了十七tg。（后来糯米才知道十七是瞎编的根本对糯米ip无感只是单纯想找糯米玩，因为不想给糯米带来负担所以随口扯的，糯米被骗得一愣一愣当时还在想好有缘分啊喜欢的互关也喜欢我ip'◡'）\n\n在tg里我们聊得很开心，一开始是剧烈地好感对方，十七几乎满足了糯米的一切对于亲友的期望渴求，糯米说“我许愿也不敢跟老天许愿要个这么符合我全部需求的亲友，但是老天偏偏把十七打包给我了，一次满足六个愿望”。糯米心想一定要把小十七牢牢抓住！绝对不能让到手的亲友飞了！\n\n十七糯米美美上头，一开始大家都剧烈客气，十七装乖萌，糯米装温良，生怕吓到对方，聊着聊着越来越不对劲……咦你好像是神经病……好巧我也是。一切都十分默契，吸引更是如潮水般涌来，不可抗力。原来我们是同类啊，难怪冥冥之中相互吸引呢。默契得就像世界上另一个自己，能理解对方的一切所作所为，即使惊讶也是欣赏赞叹。\n\n我们意识到这以后，关系突飞猛进——是我们在各自的人生里都从未体验过的迅猛进展。这很例外，对于我们彼此而言不可思议，旁人无法得知其中的惊涛骇浪。\n\n为什么会是你呢？为什么你会来到我的生命里呢？我根本没想要一个你。\n但是欢迎你来。\n\n我们都是如此冷淡的人，似乎要把全世界推开，我们习惯了独自走在黑夜之中，我们孑然一身也没什么好失去的。我们不缺爱，不渴求爱，不为无法拥有什么而失落，根本没有渴望过要拥有一个极度亲密的存在，我们就这样淡淡地走在世界里，跟世界格格不入，也做好了孑然一身离开的准备。\n\n糯米心中，与这个世界始终有隔阂，对待家人是尽孝尽责，对待朋友也是君子之交。我推开大家希望大家各自找到最好的朋友，希望自己离开以后没有人会无法承受。对世界感受不到太多的吸引力，常常感到刻骨的乏味。\n\n我们遇到彼此，说过的最多的话就是，你是例外、你是偏爱。\n是在众生之中偏偏多爱你一点点，倾斜于你一点点。也是在众生之中恰恰爱上你，那么多人，无法引起我的波动，偏偏只有你引起了。\n\n一切都是例外，妙不可言不可思议。\n如此慢热的、冷淡的、从未需求过爱与被爱的、做好准备一生不会深度爱上任何人的人，发现居然存在这样一个例外，能让自己打破所有的原则跟边界，像加速的时钟一样扭打在一起。剧烈的吸引让我们无法顾及自身的形象，打乱了彼此原本的生命计划与模样，很慌乱又很兴奋。\n\n我们在见到彼此面前，丝毫不在乎彼此的任何外在条件。不知道对方长什么样子，是什么声音，不在乎对方的性别，无所谓对方的年龄，无论怎么样，我们都会爱上彼此，知己已是难寻，双生更是绝无仅有。见到彼此以后，剧烈的吸引铺天盖地涌过来，比使用任何精神活性物质更加强烈，不过那都是后话啦……\n\n如在梦中，也在梦中。\n我们在彼此的现实、梦境、幻觉里如源源不断的流水般，不断触碰未曾离开。\n\n我想和你永远在一起。@fanwei_17"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1807,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "（来自十七提问箱 此篇为糯米视角）\n十七&amp;糯米的故事好像很难写出来，推特呈现的是冰山一角，因为太过特殊太过例外，彼此常常也恍惚表示“如在梦中”。\n\n我们是怎么认识的？ https://t.co/xXitWt5N5p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 1544,
+          "like_count": 5882,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 2674
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 978,
+          "like_count": 3630,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2778
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2072788008865243544",
+    "created_at": "2026-08-04T04:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084500212211499073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012905258792701952",
+          "start": 0,
+          "username": "8yellowmika8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084500212211499073",
+    "in_reply_to_user_id": "2012905258792701952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084491968730837146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8yellowmika8 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2072788008865243544",
+        "created_at": "2026-08-04T04:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084500212211499073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012905258792701952",
+              "start": 0,
+              "username": "8yellowmika8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084500212211499073",
+        "in_reply_to_user_id": "2012905258792701952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084491968730837146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8yellowmika8 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012905258792701952",
+        "conversation_id": "2072788008865243544",
+        "created_at": "2026-08-04T04:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084491968730837146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084491968730837146",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072820495284916389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 想入欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 1527,
+          "like_count": 5963,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 2724
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:09:59.000Z",
+        "description": "@9facecat9\n@7catface7\nN9是大號 已無法登錄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "9facecat9"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "7catface7"
+              }
+            ]
+          }
+        },
+        "id": "2012905258792701952",
+        "name": "NekoFace8",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017973571101057024/lEAastD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 24,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "8yellowmika8",
+        "verified": false
+      }
+    ]
+  }
+}

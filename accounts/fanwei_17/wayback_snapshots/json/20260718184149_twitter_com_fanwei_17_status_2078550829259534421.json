@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2078506941249405216",
+    "created_at": "2026-07-18T18:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078550829259534421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053435734737186816",
+          "start": 0,
+          "username": "xingstaro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078550829259534421",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078506941249405216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingstaro 我：啊哈哈哈 嘣嘣嘣 嘣嘣嘣 你好萌 你好萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2078506941249405216",
+        "created_at": "2026-07-18T18:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078550829259534421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078550829259534421",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078506941249405216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 我：啊哈哈哈 嘣嘣嘣 嘣嘣嘣 你好萌 你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2078506941249405216",
+        "created_at": "2026-07-18T15:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078506941249405216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078506941249405216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才对着我妈喵喵叫喵了三分钟。。。。。\n不好意思我控制不住自己\n喵。\n\n每次磕pr谁在我面前恭喜你你能看到我剧烈弱智的瞬间。上次在17面前比手枪姿势“嘣嘣嘣嘣”也嘣了挺久的呃呃呃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 1542,
+          "like_count": 5862,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2653
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 495,
+          "like_count": 1448,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

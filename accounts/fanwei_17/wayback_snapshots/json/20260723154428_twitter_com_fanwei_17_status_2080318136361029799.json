@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2080318136361029799",
+    "created_at": "2026-07-23T15:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080318136361029799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/7Dp",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/7Dp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080318136361029799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080263837593571673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 毒品亦或药品？\n\n法律意义上的毒品都是绝强的精神活性物质。那些教科书里最为禁忌的名字，全都是真正的天赋使者，是万毒之祖。它们拥有T0级别的感官体验，当然，也携带着T0级别的风险代价。\n\n随手带来一期MDMA的潜在可能 https://t.co/7Dp…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2080318136361029799",
+        "created_at": "2026-07-23T15:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080318136361029799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/7Dp",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/7Dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080318136361029799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080263837593571673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 毒品亦或药品？\n\n法律意义上的毒品都是绝强的精神活性物质。那些教科书里最为禁忌的名字，全都是真正的天赋使者，是万毒之祖。它们拥有T0级别的感官体验，当然，也携带着T0级别的风险代价。\n\n随手带来一期MDMA的潜在可能 https://t.co/7Dp…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2080263837593571673",
+        "created_at": "2026-07-23T12:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080263837593571673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Nature Medicine - Results from a phase 3, double-blind, randomized, placebo-controlled trial demonstrate that MDMA-assisted therapy is safe and effective in treating severe post-traumatic stress...",
+              "display_url": "nature.com/articles/s4159…",
+              "end": 132,
+              "expanded_url": "https://www.nature.com/articles/s41591-021-01336-3",
+              "images": [
+                {
+                  "height": 2618,
+                  "url": "https://pbs.twimg.com/news_img/2080263842626715648/ZL2tOKa2?format=png&name=orig",
+                  "width": 1867
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080263842626715648/ZL2tOKa2?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "MDMA-assisted therapy for severe PTSD: a randomized, double-blind, placebo-controlled phase 3 study",
+              "unwound_url": "https://www.nature.com/articles/s41591-021-01336-3?error=cookies_not_supported&code=3641404c-2123-4ce4-8581-a374dda9ba6c",
+              "url": "https://t.co/7DpDUEHTsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080263837593571673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "nature.com/articles/s4159…",
+                "end": 132,
+                "expanded_url": "https://www.nature.com/articles/s41591-021-01336-3",
+                "start": 109,
+                "url": "https://t.co/ZcGHPEbRRT"
+              }
+            ]
+          },
+          "text": "毒品亦或药品？\n\n法律意义上的毒品都是绝强的精神活性物质。那些教科书里最为禁忌的名字，全都是真正的天赋使者，是万毒之祖。它们拥有T0级别的感官体验，当然，也携带着T0级别的风险代价。\n\n随手带来一期MDMA的潜在可能 https://t.co/ZcGHPEbRRT\n\nMDMA最早的诞生契机并非娱乐，直到后来被亚历山大(Alexander Shulgin)敏锐发现其价值，从此“摇头丸/Ecstasy”才风靡全球，掀起了共情与狂欢的潮流，带来了无与伦比的欢乐却也带来了海啸般的灾难。\n\n由于MDMA被无底线滥用造成了许多无可挽回的事故，最终被列为管制药物中的管制，迎来了长久的封杀。关于共情的精神医疗研究也陷入了长久的灰暗期。\n\n直到近年，MAPS在科学三期临床数据（MAPP1/MAPP2）重新证明了它在控制剂量下对PTSD的治疗能力，MDMA才重新正式被医疗看见。不过前路漫漫，仍在前行中，医疗正是螺旋上升的过程。\n\nMDMA真的是毒吗？在我看来，“毒品”只是不同地域基于历史与文明的法律取舍判断，而非神经的唯一答案。\n\n合法医疗捍卫了患者健康合理用药的权益。当科学逐渐揭开物质的内核，人类在具备充分认知、不损害他人且能承担后果的前提下，是否应当拥有探索自我的自主权？ 这是临床医学之外，关于生命体验与认知自由的持久辩论。荷兰开放了蘑菇，泰国拥抱了大麻，中国拓展了氯胺酮，不同地域文明中的人们，迈着不一致的螺旋上升步伐。\n\n没有“毒”与“药”的绝对边界，物质从始至终无悲无喜存在着。Dose makes the poison. Be careful then explore it!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 967,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "毒品亦或药品？\n\n法律意义上的毒品都是绝强的精神活性物质。那些教科书里最为禁忌的名字，全都是真正的天赋使者，是万毒之祖。它们拥有T0级别的感官体验，当然，也携带着T0级别的风险代价。\n\n随手带来一期MDMA的潜在可能 https://t.co/7DpDUEHTsO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2654,
+          "following_count": 1545,
+          "like_count": 5877,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 2672
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 979,
+          "like_count": 3628,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2762
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      }
+    ]
+  }
+}
