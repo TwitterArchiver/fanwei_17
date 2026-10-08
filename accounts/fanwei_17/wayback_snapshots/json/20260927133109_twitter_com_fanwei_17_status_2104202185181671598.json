@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2103113002107195676",
+    "created_at": "2026-09-27T13:31:09.000Z",
+    "display_text_range": [
+      25,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104202185181671598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711608806755680256",
+          "start": 0,
+          "username": "23caJ12225"
+        },
+        {
+          "end": 24,
+          "id": "2054912328978817024",
+          "start": 12,
+          "username": "Nauseous_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104202185181671598",
+    "in_reply_to_user_id": "1711608806755680256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103333373578215469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@23caJ12225 @Nauseous_17 会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2103113002107195676",
+        "created_at": "2026-09-27T13:31:09.000Z",
+        "display_text_range": [
+          25,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104202185181671598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711608806755680256",
+              "start": 0,
+              "username": "23caJ12225"
+            },
+            {
+              "end": 24,
+              "id": "2054912328978817024",
+              "start": 12,
+              "username": "Nauseous_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104202185181671598",
+        "in_reply_to_user_id": "1711608806755680256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103333373578215469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@23caJ12225 @Nauseous_17 会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711608806755680256",
+        "conversation_id": "2103113002107195676",
+        "created_at": "2026-09-25T03:58:48.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103333373578215469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "Nauseous_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103333373578215469",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103113002107195676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nauseous_17 一直连续使用不会耐受吗，我基本上第二次就开始急性耐受了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "is_identity_verified": false,
+        "location": "Thrillingly pointless",
+        "most_recent_tweet_id": "2104202185181671598",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638959586140098560/1777837107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 1480,
+          "like_count": 6199,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-10T05:06:02.000Z",
+        "description": "不玩了，感谢陪伴过我的人",
+        "id": "1711608806755680256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103377090569801877",
+        "name": "溆",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071448731153735680/ylr8Whyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 204,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "23caJ12225",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "是的我是十七 第二账号 随缘回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "is_identity_verified": false,
+        "location": "Hopelessly free",
+        "most_recent_tweet_id": "2103132947054555639",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2075194049733226855",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054912328978817024/1778864618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 117,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

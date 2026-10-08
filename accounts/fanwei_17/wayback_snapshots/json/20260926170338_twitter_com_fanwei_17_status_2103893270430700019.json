@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1638959586140098560",
+    "conversation_id": "2103545156381311026",
+    "created_at": "2026-09-26T17:03:38.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T18:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103893270430700019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012905258792701952",
+          "start": 0,
+          "username": "8yellowmika8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103893270430700019",
+    "in_reply_to_user_id": "2012905258792701952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103545156381311026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8yellowmika8 《开处方的医生全部贩毒呗》没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103545147170627585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTFLKpIaIAE_C6x.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2103545156381311026",
+        "created_at": "2026-09-26T17:03:38.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103893270430700019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012905258792701952",
+              "start": 0,
+              "username": "8yellowmika8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103893270430700019",
+        "in_reply_to_user_id": "2012905258792701952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103545156381311026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8yellowmika8 《开处方的医生全部贩毒呗》没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103545147170627585"
+          ]
+        },
+        "author_id": "2012905258792701952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103545156381311026",
+        "created_at": "2026-09-25T18:00:21.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103545156381311026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8xtTUjACN",
+              "end": 104,
+              "expanded_url": "https://x.com/8yellowmika8/status/2103545156381311026/photo/1",
+              "media_key": "3_2103545147170627585",
+              "start": 81,
+              "url": "https://t.co/N8xtTUjACN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103545156381311026",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103545147170627585"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14883,
+          "like_count": 256,
+          "quote_count": 10,
+          "reply_count": 64,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我的天哪你能不能学学正常的禁毒媒体，药物滥用才是吸毒，直接把处方药称为毒品的来了。开处方的医生全部贩毒呗。还有苯二氮草我真的气笑了 作为一个官媒就产出这样的作品 https://t.co/N8xtTUjACN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "is_identity_verified": false,
+        "location": "Thrillingly pointless",
+        "most_recent_tweet_id": "2103893270430700019",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638959586140098560/1777837107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 1481,
+          "like_count": 6191,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 2920
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T15:09:59.000Z",
+        "description": "",
+        "id": "2012905258792701952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103892416063533300",
+        "name": "NekoFace8🇦🇶",
+        "pinned_tweet_id": "2103300492709478512",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017973571101057024/lEAastD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 101,
+          "like_count": 1294,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 933
+        },
+        "url": "",
+        "username": "8yellowmika8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
